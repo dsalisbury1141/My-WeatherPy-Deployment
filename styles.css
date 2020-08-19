@@ -1,7 +1,6 @@
 body{
-    background-image: url(images/bg2.jpg);
-    background-size: auto;
-    
+    background-image: url(Images/bg2.jpg);
+    background-size: auto;    
 }
 
 #wall{    
@@ -129,4 +128,3 @@ img {
 
     
     }
-The end
