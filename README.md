@@ -15,7 +15,7 @@ My Assignement was to randomly select a minimum of 500 unique cities accross the
 <li>Temperature (F) vs. Latitude</li>
 <li>Cloudiness (%) vs. Latitude</li>
 <li>Wind Speed (mph) vs. Latitude</li>
-![imageAlt](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/CloudPlot.png “Cloudy”)
+![Cloudy](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/CloudPlot.png “Cloudy”)
 ![imageAlt](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/HumidPlot.png “Humidity”)
 ![imageAlt](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/TempPlot.png “Temperature”)
 ![imageAlt](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/Windplot.png “Wind”)
