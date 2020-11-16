@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-Github page : https://dsalisbury1141.github.io/Web-Design-Challenge/
+Github page : https://dsalisbury1141.github.io/My-WeatherPy-Deployment/
 
 My adventure began in July 2020 with the objective was to observe weather conditions across the globe. 
 This assignment was to select cities across the world with varying distance from the equator. 
