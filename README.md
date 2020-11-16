@@ -2,6 +2,9 @@
 
 Github page : https://dsalisbury1141.github.io/My-WeatherPy-Deployment/
 
+![imageAlt](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Images/WorldMap.jpg)![imageAlt](./image/path “On hover text”)
+
+
 My adventure began in July 2020 with the objective was to observe weather conditions across the globe. 
 This assignment was to select cities across the world with varying distance from the equator. 
 To accomplish this, I used simple Python library and an OpenWeatherMap API, along with and a little ingenuity to create a representative model of weather across world cities. 
