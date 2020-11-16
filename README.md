@@ -21,5 +21,3 @@ My Assignement was to randomly select a minimum of 500 unique cities accross the
 ![Temperature](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/TempPlot.png)
 ![Wind](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/Windplot.png)
 
-
-This assigment was fun if I had more time I would have sproosed it up more but larger homework and projects on the near horizon.
