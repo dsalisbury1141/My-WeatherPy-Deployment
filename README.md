@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# My-WeatherPy Web Deployment
 
 Github page : https://dsalisbury1141.github.io/My-WeatherPy-Deployment/
 
