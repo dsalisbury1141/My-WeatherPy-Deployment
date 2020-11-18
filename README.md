@@ -21,3 +21,7 @@ My Assignement was to randomly select a minimum of 500 unique cities accross the
 ![Temperature](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/TempPlot.png)
 ![Wind](https://github.com/dsalisbury1141/My-WeatherPy-Deployment/blob/master/Visualizations/Windplot.png)
 
+
+How to run my code:
+1. Open link above to run the deployed site
+2. Download my repository and run Index page on local host
